@@ -18,16 +18,16 @@ Para el Ejercicio 2 genere la api en el archivo api_main.py, esta generado el ar
 
 Las pruebas las hice montando el contenedor en docker.
 
-![Contenedor](imagenes\docker.png)
+![Contenedor](imagenes/docker.png)
 
 Cuando no hay productos como fue el caso de la url 2 y 3 (harinas-y-mezclas-para-preparar  y bebida-achocolatada-en-polvo ) como salida 
 se da un json vacio 
-![Salida Vacia](imagenes\2_3_salida_url_sin_productos.png)
+![Salida Vacia](imagenes/2_3_salida_url_sin_productos.png)
 
 y para cuando si hay productos como en la url 1 y 2 (enlatados-y-conservas y aceite) se dan los 15 primeros productos en la estructura json.
 
-![URL enlatados y conservas](imagenes\1_salida_url_enlatados-y-conservas.jpg)
+![URL enlatados y conservas](imagenes/1_salida_url_enlatados-y-conservas.jpg)
 
-![URL aceites](imagenes\4_salida_url_aceites.jpg)
+![URL aceites](imagenes/4_salida_url_aceites.jpg)
 
 
